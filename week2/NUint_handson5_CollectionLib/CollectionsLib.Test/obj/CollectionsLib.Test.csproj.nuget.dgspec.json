@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj": {}
+    "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj": {
+    "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj",
         "projectName": "CollectionsLib.Test",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj",
         "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\obj\\",
+        "outputPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj": {
-                "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj"
+              "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj"
               }
             }
           }
@@ -95,11 +95,11 @@
         }
       }
     },
-    "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj": {
+    "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj",
+        "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj",
         "projectName": "CollectionsLib",
-        "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj",
+        "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib\\CollectionsLib.csproj",
         "UsingMicrosoftNETSdk": false,
         "frameworks": {
           "net472": {

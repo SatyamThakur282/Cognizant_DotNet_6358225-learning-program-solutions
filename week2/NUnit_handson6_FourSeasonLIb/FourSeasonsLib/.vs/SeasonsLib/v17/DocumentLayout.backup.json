@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson6_FourSeasonLIb\\FourSeasonsLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D60C86F-06A1-405D-8C32-9912F62E0477}|..\\SeasonLib.Test\\SeasonLib.Test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson6_fourseasonlib\\seasonlib.test\\seasontellertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F53A84-0CC2-466E-A701-6CDC0DDC9993}|SeasonsLib.csproj|C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson6_FourSeasonLIb\\FourSeasonsLib\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F53A84-0CC2-466E-A701-6CDC0DDC9993}|SeasonsLib.csproj|solutionrelative:season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeasonTellerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson6_FourSeasonLIb\\SeasonLib.Test\\SeasonTellerTests.cs",
+              "RelativeDocumentMoniker": "..\\SeasonLib.Test\\SeasonTellerTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson6_FourSeasonLIb\\SeasonLib.Test\\SeasonTellerTests.cs",
+              "RelativeToolTip": "..\\SeasonLib.Test\\SeasonTellerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:14:41.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson6_FourSeasonLIb\\FourSeasonsLib\\Season.cs",
+              "RelativeDocumentMoniker": "Season.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson6_FourSeasonLIb\\FourSeasonsLib\\Season.cs",
+              "RelativeToolTip": "Season.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T12:44:38.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

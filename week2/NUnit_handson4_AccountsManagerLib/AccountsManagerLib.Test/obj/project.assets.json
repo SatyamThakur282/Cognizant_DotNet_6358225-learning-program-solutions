@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerLib.Test.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerLib.Test.csproj",
       "projectName": "AccountsManagerLib.Test",
-      "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerLib.Test.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerLib.Test.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1028,8 +1028,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManagerLib.csproj": {
-              "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManagerLib.csproj"
+            "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManagerLib.csproj": {
+              "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManagerLib.csproj"
             }
           }
         }

@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson1\u00262_CalcLibrary\\",
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\week2\\nunit_handson1\u00262_calclibrary\\calclibrary.test\\divisiontestandexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson1\u00262_calclibrary\\calclibrary.test\\substractiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|solutionrelative:calclibrary.test\\substractiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson1\u00262_calclibrary\\calclibrary.test\\multiplicationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|solutionrelative:calclibrary.test\\multiplicationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson1\u00262_calclibrary\\calclibrary.test\\getresultandallcleartest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|solutionrelative:calclibrary.test\\getresultandallcleartest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson1\u00262_calclibrary\\calclibrary.test\\divisiontestandexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|solutionrelative:calclibrary.test\\divisiontestandexceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson1\u00262_calclibrary\\calclibrary.test\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDE7059-D5FA-4608-9D78-09CFC71C6DF2}|CalcLibrary.test\\CalcLibrary.test.csproj|solutionrelative:calclibrary.test\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SubstractionTest.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\SubstractionTest.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.test\\SubstractionTest.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\SubstractionTest.cs",
+              "RelativeToolTip": "CalcLibrary.test\\SubstractionTest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:57:38.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplicationTest.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\MultiplicationTest.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.test\\MultiplicationTest.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\MultiplicationTest.cs",
+              "RelativeToolTip": "CalcLibrary.test\\MultiplicationTest.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:56:52.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetResultAndAllclearTest.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\GetResultAndAllclearTest.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.test\\GetResultAndAllclearTest.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\GetResultAndAllclearTest.cs",
+              "RelativeToolTip": "CalcLibrary.test\\GetResultAndAllclearTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:56:24.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "CalcLibrary.test\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\CalculatorTests.cs",
+              "RelativeToolTip": "CalcLibrary.test\\CalculatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:51:30.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DivisionTestAndExceptionHandling.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\DivisionTestAndExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\DivisionTestAndExceptionHandling.cs",
               "RelativeDocumentMoniker": "CalcLibrary.test\\DivisionTestAndExceptionHandling.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\DivisionTestAndExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1\u00262_CalcLibrary\\CalcLibrary.test\\DivisionTestAndExceptionHandling.cs",
               "RelativeToolTip": "CalcLibrary.test\\DivisionTestAndExceptionHandling.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T10:37:23.559Z",
               "EditorCaption": ""

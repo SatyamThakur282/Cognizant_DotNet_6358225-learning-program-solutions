@@ -1,13 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\",
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\week2\\nunit_handson4_accountsmanagerlib\\accountsmanagerlib\\accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|solutionrelative:accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D17FDC92-1965-4122-B2D1-9AFF290523CE}|..\\AccountsManagerLib.Test\\AccountsManagerLib.Test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson4_accountsmanagerlib\\accountsmanagerlib.test\\accountsmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D17FDC92-1965-4122-B2D1-9AFF290523CE}|..\\AccountsManagerLib.Test\\AccountsManagerLib.Test.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\week2\\nunit_handson4_accountsmanagerlib\\accountsmanagerlib.test\\accountsmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson4_accountsmanagerlib\\accountsmanagerlib\\accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69F6B8E8-3E32-4E32-AC3F-D92781775C30}|AccountsManagerLib.csproj|solutionrelative:accountsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,10 +25,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountsManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
+              "RelativeDocumentMoniker": "..\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
+              "RelativeToolTip": "..\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T19:04:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AccountsManager.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManager.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManager.cs",
               "RelativeDocumentMoniker": "AccountsManager.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManager.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib\\AccountsManager.cs",
               "RelativeToolTip": "AccountsManager.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,13 +53,11 @@
               "DocumentIndex": 1,
               "Title": "AccountsManagerTests.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
-              "RelativeDocumentMoniker": "..\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
-              "RelativeToolTip": "..\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\week2\\NUnit_handson4_AccountsManagerLib\\AccountsManagerLib.Test\\AccountsManagerTests.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:24:32.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:24:32.562Z"
             }
           ]
         }

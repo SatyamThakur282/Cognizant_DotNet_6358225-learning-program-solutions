@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQtU70UAmSk=",
+  "dgSpecHash": "c70TO82zP5M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUint_handson5_CollectionLib\\CollectionsLib.Test\\CollectionsLib.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

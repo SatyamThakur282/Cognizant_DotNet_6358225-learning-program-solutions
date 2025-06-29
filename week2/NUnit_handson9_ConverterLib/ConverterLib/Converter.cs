@@ -3,13 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-//using CurrencyConverterApp;
+using ConverterLib;
 
 namespace ConverterLib
 {
     public class Converter : IConverter
     {
         IDollarToEuroExchangeRateFeed _exchangeRateFeed;
+
+        public Converter()
+        {
+        }
+
         public Converter(IDollarToEuroExchangeRateFeed exchangeRateFeed)
         {
             _exchangeRateFeed = exchangeRateFeed;

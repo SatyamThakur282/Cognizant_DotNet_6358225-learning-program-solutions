@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = CalcLibrary
-build_property.ProjectDir = C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\
+build_property.ProjectDir = C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ATDyzxYt44=",
+  "dgSpecHash": "SBm7FIL6ASA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson8_UserManagerLib\\UserManagerLib.Tests\\UserManagerLib.Tests.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson8_UserManagerLib\\UserManagerLib.Tests\\UserManagerLib.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

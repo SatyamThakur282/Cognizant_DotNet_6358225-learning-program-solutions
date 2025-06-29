@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dPTKCoey4lU=",
+  "dgSpecHash": "aSRIxjVe5Fg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson1&2_CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson1&2_CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\KIIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

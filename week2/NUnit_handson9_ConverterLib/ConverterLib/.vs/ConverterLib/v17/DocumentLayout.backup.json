@@ -6,16 +6,19 @@
       "AbsoluteMoniker": "D:0:0:{A4382C8A-888A-4591-A7A3-3C4875D9B9D2}|..\\ConverterLib.Tests\\ConverterLib.Tests.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson9_converterlib\\converterlib.tests\\convertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson9_converterlib\\converterlib\\idollartoeuroexchangeratefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|solutionrelative:idollartoeuroexchangeratefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson9_converterlib\\converterlib\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|solutionrelative:converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4382C8A-888A-4591-A7A3-3C4875D9B9D2}|..\\ConverterLib.Tests\\ConverterLib.Tests.csproj|c:\\users\\kiit\\desktop\\cognizant_nuture4.0\\new folder\\git\\cognizant_dotnet_6358225-learning-program-solutions\\week2\\nunit_handson9_converterlib\\converterlib.tests\\system\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|solutionrelative:iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|solutionrelative:converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\idollartoeuroexchangeratefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AAD718B-9383-4DAB-ACE8-39C6F3846C24}|ConverterLib.csproj|solutionrelative:idollartoeuroexchangeratefeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,16 +32,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IDollarToEuroExchangeRateFeed.cs",
-              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
-              "RelativeDocumentMoniker": "IDollarToEuroExchangeRateFeed.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
-              "RelativeToolTip": "IDollarToEuroExchangeRateFeed.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\System\\Converter.cs",
+              "RelativeDocumentMoniker": "..\\ConverterLib.Tests\\System\\Converter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\System\\Converter.cs",
+              "RelativeToolTip": "..\\ConverterLib.Tests\\System\\Converter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAoAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T18:10:15.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T18:44:39.704Z"
             },
             {
               "$type": "Document",
@@ -46,38 +48,49 @@
               "Title": "ConverterTests.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterTests.cs",
               "RelativeDocumentMoniker": "..\\ConverterLib.Tests\\ConverterTests.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterTests.cs*",
-              "RelativeToolTip": "..\\ConverterLib.Tests\\ConverterTests.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwA4AAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterTests.cs",
+              "RelativeToolTip": "..\\ConverterLib.Tests\\ConverterTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T17:55:55.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Converter.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\Converter.cs",
               "RelativeDocumentMoniker": "Converter.cs",
-              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\Converter.cs*",
-              "RelativeToolTip": "Converter.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwAUAAAACAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\Converter.cs",
+              "RelativeToolTip": "Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T13:02:52.127Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IConverter.cs",
               "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\IConverter.cs",
               "RelativeDocumentMoniker": "IConverter.cs",
               "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\IConverter.cs",
               "RelativeToolTip": "IConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T13:01:53.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T13:01:53.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDollarToEuroExchangeRateFeed.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
+              "RelativeDocumentMoniker": "IDollarToEuroExchangeRateFeed.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\IDollarToEuroExchangeRateFeed.cs",
+              "RelativeToolTip": "IDollarToEuroExchangeRateFeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T18:10:15.902Z"
             }
           ]
         }
