@@ -7,54 +7,53 @@ namespace ConverterLib.Tests
     [TestFixture]
     public class ConverterTests
     {
-        private Mock<IDollarToEuroExchangeRateFeed> _mockFeed;
-        private Converter _converter;
-
-        [SetUp]
-        public void SetUp()
-        {
-            _mockFeed = new Mock<IDollarToEuroExchangeRateFeed>();
-            _converter = new System.Converter(_mockFeed.Object);
-        }
-
         [Test]
         public void USDToEuro_ValidDollarAmount_ReturnsExpectedEuroValue()
         {
             // Arrange
-            double dollarAmount = 100;
-            double mockExchangeRate = 0.85;
+            var mockFeed = new Mock<IDollarToEuroExchangeRateFeed>();
+            mockFeed.Setup(x => x.GetExchangeRate()).Returns(0.85); // Mocked exchange rate
 
-            _mockFeed.Setup(feed => feed.GetActualUSDollarValue()).Returns(mockExchangeRate);
+            var converter = new Converter(mockFeed.Object);
+            double dollar = 100;
 
             // Act
-            double result = _converter.USDToEuro(dollarAmount);
+            double result = converter.USDToEuro(dollar);
+
+            // Assert (Single Assertion Rule)
+            Assert.That(result, Is.EqualTo(85.0).Within(0.01));
+        }
+
+        [Test]
+        public void USDToEuro_ZeroDollar_ReturnsZero()
+        {
+            // Arrange
+            var mockFeed = new Mock<IDollarToEuroExchangeRateFeed>();
+            mockFeed.Setup(x => x.GetExchangeRate()).Returns(0.85);
+
+            var converter = new Converter(mockFeed.Object);
+
+            // Act
+            double result = converter.USDToEuro(0);
 
             // Assert
-            Assert.That(result, Is.EqualTo(85.0));
+            Assert.That(result, Is.EqualTo(0));
         }
 
         [Test]
-        public void USDToEuro_ZeroDollar_ReturnsZeroEuro()
+        public void USDToEuro_NegativeDollar_ReturnsNegativeEuro()
         {
-            _mockFeed.Setup(f => f.GetActualUSDollarValue()).Returns(0.85);
+            // Arrange
+            var mockFeed = new Mock<IDollarToEuroExchangeRateFeed>();
+            mockFeed.Setup(x => x.GetExchangeRate()).Returns(0.75);
 
-            double result = _converter.USDToEuro(0);
+            var converter = new Converter(mockFeed.Object);
 
-            Assert.That(result, Is.EqualTo(0.0));
+            // Act
+            double result = converter.USDToEuro(-40);
+
+            // Assert
+            Assert.That(result, Is.EqualTo(-30).Within(0.01));
         }
-
-        [Test]
-        public void USDToEuro_NegativeDollarValue_ReturnsNegativeEuroValue()
-        {
-            _mockFeed.Setup(f => f.GetActualUSDollarValue()).Returns(0.85);
-
-            double result = _converter.USDToEuro(-50);
-
-            Assert.That(result, Is.EqualTo(-42.5));
-        }
-    }
-
-    internal interface IDollarToEuroExchangeRateFeed
-    {
     }
 }

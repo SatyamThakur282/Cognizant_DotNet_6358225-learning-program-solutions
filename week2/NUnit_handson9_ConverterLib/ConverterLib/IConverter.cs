@@ -14,5 +14,7 @@ namespace ConverterLib
         double LiterToGallon(double liter);
 
         double USDToEuro(double dollar);
+
+
     }
 }

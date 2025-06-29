@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using CurrencyConverterApp;
+//using CurrencyConverterApp;
 
 namespace ConverterLib
 {
@@ -37,7 +37,7 @@ namespace ConverterLib
 
         public double USDToEuro(double dollar)
         {
-            return dollar * _exchangeRateFeed.GetActualUSDollarValue();
+            return dollar * _exchangeRateFeed.GetExchangeRate();
         }
     }
 }

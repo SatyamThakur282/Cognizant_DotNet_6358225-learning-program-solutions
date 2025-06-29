@@ -1,2 +1,8 @@
 C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
 C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson9_ConverterLib\ConverterLib\bin\Debug\ConverterLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson9_ConverterLib\ConverterLib\bin\Debug\ConverterLib.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\git\Cognizant_DotNet_6358225-learning-program-solutions\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.pdb

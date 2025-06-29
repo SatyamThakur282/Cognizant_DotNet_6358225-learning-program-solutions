@@ -1130,11 +1130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterLib.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterLib.Tests.csproj",
       "projectName": "ConverterLib.Tests",
-      "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterLib.Tests.csproj",
+      "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\ConverterLib.Tests.csproj",
       "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\obj\\",
+      "outputPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1155,8 +1155,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\ConverterLib.csproj": {
-              "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\ConverterLib.csproj"
+            "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\ConverterLib.csproj": {
+              "projectPath": "C:\\Users\\KIIT\\Desktop\\cognizant_nuture4.0\\New folder\\git\\Cognizant_DotNet_6358225-learning-program-solutions\\week2\\NUnit_handson9_ConverterLib\\ConverterLib\\ConverterLib.csproj"
             }
           }
         }

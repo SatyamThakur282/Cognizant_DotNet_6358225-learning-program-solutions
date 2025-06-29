@@ -14,7 +14,6 @@ use AdvanceSQL_exercise4;
 go
 
 -- Creating tables
-
 --Creating Departments table
 if not exists (
     select * from INFORMATION_SCHEMA.TABLES 
@@ -26,7 +25,6 @@ begin
         DepartmentName varchar(100)
     );
 end;
-
 
 --Creating Employees table
 if not exists (
@@ -43,8 +41,6 @@ begin
         JoinDate date
     );
 end;
-
-select * from Employees;
 
 --Inserting data into Departments
 insert into Departments (DepartmentID, DepartmentName) values
@@ -105,13 +101,7 @@ execute sp_InsertEmployee
     @JoinDate = '2023-08-08';
 go
 
---drop procedure sp_InsertEmployee;
-
-
---select * from Employees;
-
-
-
+select * from Employees;
 
 
 
