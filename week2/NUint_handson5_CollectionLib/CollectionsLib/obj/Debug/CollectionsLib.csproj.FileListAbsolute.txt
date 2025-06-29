@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUint_handson5_CollectionLib\CollectionsLib\bin\Debug\CollectionsLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUint_handson5_CollectionLib\CollectionsLib\bin\Debug\CollectionsLib.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUint_handson5_CollectionLib\CollectionsLib\obj\Debug\CollectionsLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUint_handson5_CollectionLib\CollectionsLib\obj\Debug\CollectionsLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUint_handson5_CollectionLib\CollectionsLib\obj\Debug\CollectionsLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUint_handson5_CollectionLib\CollectionsLib\obj\Debug\CollectionsLib.pdb

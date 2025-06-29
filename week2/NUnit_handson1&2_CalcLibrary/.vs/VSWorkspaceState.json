@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CalcLibrary\\bin\\Debug\\netstandard2.0",
+    "\\CalcLibrary\\bin\\Release\\netstandard2.0",
+    "\\CalcLibrary\\obj\\Debug",
+    "\\CalcLibrary\\obj\\Release",
+    "\\packages",
+    "\\test"
+  ],
+  "SelectedNode": "\\test",
+  "PreviewInSolutionExplorer": false
+}

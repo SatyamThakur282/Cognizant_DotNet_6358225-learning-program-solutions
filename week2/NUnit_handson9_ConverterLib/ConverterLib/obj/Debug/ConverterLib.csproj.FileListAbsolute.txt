@@ -1,0 +1,2 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib\obj\Debug\ConverterLib.csproj.CoreCompileInputs.cache

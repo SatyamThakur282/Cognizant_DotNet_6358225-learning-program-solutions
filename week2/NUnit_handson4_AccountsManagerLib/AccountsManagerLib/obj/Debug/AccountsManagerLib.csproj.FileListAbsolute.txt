@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson4_AccountsManagerLib\AccountsManagerLib\bin\Debug\AccountsManagerLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson4_AccountsManagerLib\AccountsManagerLib\bin\Debug\AccountsManagerLib.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson4_AccountsManagerLib\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson4_AccountsManagerLib\AccountsManagerLib\obj\Debug\AccountsManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson4_AccountsManagerLib\AccountsManagerLib\obj\Debug\AccountsManagerLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson4_AccountsManagerLib\AccountsManagerLib\obj\Debug\AccountsManagerLib.pdb

@@ -1,0 +1,5 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib.Tests\obj\Debug\net8.0\ConverterLib.Tests.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib.Tests\obj\Debug\net8.0\ConverterLib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib.Tests\obj\Debug\net8.0\ConverterLib.Tests.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib.Tests\obj\Debug\net8.0\ConverterLib.Tests.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson9_ConverterLib\ConverterLib.Tests\obj\Debug\net8.0\ConverterLib.Tests.csproj.CoreCompileInputs.cache

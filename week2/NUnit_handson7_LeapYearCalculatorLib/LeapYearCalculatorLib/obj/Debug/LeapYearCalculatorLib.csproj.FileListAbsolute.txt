@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson7_LeapYearCalculatorLib\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson7_LeapYearCalculatorLib\LeapYearCalculatorLib\bin\Debug\LeapYearCalculatorLib.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson7_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson7_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson7_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson7_LeapYearCalculatorLib\LeapYearCalculatorLib\obj\Debug\LeapYearCalculatorLib.pdb

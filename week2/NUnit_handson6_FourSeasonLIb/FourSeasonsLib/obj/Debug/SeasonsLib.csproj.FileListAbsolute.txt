@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson6_FourSeasonLIb\FourSeasonsLib\bin\Debug\SeasonsLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson6_FourSeasonLIb\FourSeasonsLib\bin\Debug\SeasonsLib.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson6_FourSeasonLIb\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson6_FourSeasonLIb\FourSeasonsLib\obj\Debug\SeasonsLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson6_FourSeasonLIb\FourSeasonsLib\obj\Debug\SeasonsLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson6_FourSeasonLIb\FourSeasonsLib\obj\Debug\SeasonsLib.pdb

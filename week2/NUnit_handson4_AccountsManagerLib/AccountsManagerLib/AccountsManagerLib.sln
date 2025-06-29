@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsManagerLib", "AccountsManagerLib.csproj", "{69F6B8E8-3E32-4E32-AC3F-D92781775C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsManagerLib.Test", "..\AccountsManagerLib.Test\AccountsManagerLib.Test.csproj", "{D17FDC92-1965-4122-B2D1-9AFF290523CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F6B8E8-3E32-4E32-AC3F-D92781775C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F6B8E8-3E32-4E32-AC3F-D92781775C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F6B8E8-3E32-4E32-AC3F-D92781775C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F6B8E8-3E32-4E32-AC3F-D92781775C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D17FDC92-1965-4122-B2D1-9AFF290523CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17FDC92-1965-4122-B2D1-9AFF290523CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17FDC92-1965-4122-B2D1-9AFF290523CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17FDC92-1965-4122-B2D1-9AFF290523CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7665C53D-7535-4F8B-9F6C-79DA9C06A063}
+	EndGlobalSection
+EndGlobal

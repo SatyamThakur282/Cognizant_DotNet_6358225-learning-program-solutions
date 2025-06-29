@@ -1,0 +1,6 @@
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson8_UserManagerLib\UserManagerLib\bin\Debug\UserManagerLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson8_UserManagerLib\UserManagerLib\bin\Debug\UserManagerLib.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson8_UserManagerLib\UserManagerLib\obj\Debug\UserManagerLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson8_UserManagerLib\UserManagerLib\obj\Debug\UserManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson8_UserManagerLib\UserManagerLib\obj\Debug\UserManagerLib.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson8_UserManagerLib\UserManagerLib\obj\Debug\UserManagerLib.pdb

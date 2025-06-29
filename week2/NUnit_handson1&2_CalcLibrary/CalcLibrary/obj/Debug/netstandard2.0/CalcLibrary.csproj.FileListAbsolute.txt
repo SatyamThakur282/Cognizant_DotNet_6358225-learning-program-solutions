@@ -1,0 +1,38 @@
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+D:\Seshadri\AcademyWork\Internship2020\FSE\Hands-on\CalcLibrary\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\Digital-Nurture-4.0-DotNetFSE-main\DotNet FSE\Deepskilling\NUnit and Moq\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.deps.json
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\bin\Debug\netstandard2.0\CalcLibrary.pdb
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.dll
+C:\Users\KIIT\Desktop\cognizant_nuture4.0\New folder\week2\NUnit_handson1&2_CalcLibrary\CalcLibrary\obj\Debug\netstandard2.0\CalcLibrary.pdb
